@@ -9,5 +9,5 @@ This prototype uses the unique features specific for the domain in football game
 ### Dependencies
 
 - Python 3.7
-- opencv-contrib-python 3.4.2.16
+- opencv-contrib-python 3.4.2.17
 
