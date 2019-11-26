@@ -11,3 +11,5 @@ This prototype uses the unique features specific for the domain in football game
 - Python 3.7
 - opencv-contrib-python 3.4.2.17
 
+### Visit us on YouTube
+https://www.youtube.com/channel/UCRCkeHhYrWr_fILCUMPLmdg
